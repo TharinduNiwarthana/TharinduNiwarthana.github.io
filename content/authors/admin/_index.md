@@ -53,7 +53,7 @@ interests:
 
 education:
   - area: PhD (Global Urban & Social Studies)
-    institution: RMIT University
+    institution: RMIT University, Melbourne, Australia
     date_start: 2021-08-02
     date_end: 2025-04-30
     summary: |
@@ -61,28 +61,38 @@ education:
 #    button:
 #      text: 'Read Thesis'
 #      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Graduate Diploma of Management
+    institution: Hilton Academy, Melbourne, Australia
+    date_start: 2020-01-01
+    date_end: 2021-06-01
+#    summary: |
+#      GPA: 3.8/4.0
+#
+#      Courses included:
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: MSc in Statistics
+    institution: La Trobe University, Melbourne, Australia
+    date_start: 2016-02-01
+    date_end: 2017-12-31
+#    summary: |
+#      GPA: 3.4/4.0
+#      
+#      Courses included:
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Honors in Statistics
+    institution: University of Sri Jayewardenepura, Sri Lanka
+    date_start: 2009-08-01
+    date_end: 2014-01-01
     summary: |
-      GPA: 3.8/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Modules in statistics, mathematics, and chemistry.
+      - Six months industrial traning.
+      - Research conducting statistical experiments to identify significant factors that determine the physical properties of rubber gaskets.
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
