@@ -52,15 +52,15 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD (Global Urban & Social Studies)
     institution: RMIT University
     date_start: 2021-08-02
     date_end: 2025-04-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      Thesis on demographic differences in the longitudinal effects of the built environment on walking behavior, supervised by [Dr. Lucy Gunn](https://www.rmit.edu.au/research/our-research/enabling-impact-platforms/researcher-stories/lucy-gunn), [Dr. Belen Zapata-Diomedi](https://www.rmit.edu.au/profiles/z/belen-zapata-diomedi), [Prof. Gavin Turrell](https://scholar.google.com.au/citations?user=s3BFl98AAAAJ&hl=en), and [Dr. Alysha De Livera](https://scholars.latrobe.edu.au/a2delivera). Four papers have been published in reputable Q1 journals.
+#    button:
+#      text: 'Read Thesis'
+#      url: 'https://example.com'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
@@ -143,11 +143,9 @@ skills:
 
 languages:
   - name: English
+    percent: 90
+  - name: Sinhalese
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
