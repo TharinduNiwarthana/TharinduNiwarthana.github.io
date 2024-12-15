@@ -35,11 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I’m a PhD candidate at RMIT University, researching the impact of built environments on walking and its implications for public health. My work involves advanced statistical methods and longitudinal data to address complex research questions.
-        
-        I bring a solid foundation in statistics and a passion for leveraging quantitative analysis to address real-world challenges across diverse fields.
-        
-        Please reach out to collaborate 😃
+        My PhD research focuses on the impact of built environments on transport walking and its implications for public health. I use RStudio to apply advanced statistical methods and longitudinal data analysis to explore complex relationships.
     design:
       columns: '1'
   - block: collection
