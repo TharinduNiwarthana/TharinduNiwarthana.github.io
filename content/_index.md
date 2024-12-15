@@ -63,7 +63,6 @@ sections:
         exclude_featured: false
     design:
       view: citation
-      <!--
   - block: collection
     id: talks
     content:
@@ -74,7 +73,6 @@ sections:
     design:
       view: article-grid
       columns: 1
-      -->
   - block: collection
     id: news
     content:
