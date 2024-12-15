@@ -53,7 +53,7 @@ interests:
 
 education:
   - area: PhD (Global Urban & Social Studies)
-    institution: RMIT University, Melbourne, Australia
+    institution: RMIT University
     date_start: 2021-08-02
     date_end: 2025-04-30
     summary: |
@@ -62,7 +62,7 @@ education:
 #      text: 'Read Thesis'
 #      url: 'https://example.com'
   - area: Graduate Diploma of Management
-    institution: Hilton Academy, Melbourne, Australia
+    institution: Hilton Academy
     date_start: 2020-01-01
     date_end: 2021-06-01
 #    summary: |
@@ -73,7 +73,7 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: MSc in Statistics
-    institution: La Trobe University, Melbourne, Australia
+    institution: La Trobe University
     date_start: 2016-02-01
     date_end: 2017-12-31
 #    summary: |
@@ -84,7 +84,7 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Honors in Statistics
-    institution: University of Sri Jayewardenepura, Sri Lanka
+    institution: University of Sri Jayewardenepura
     date_start: 2009-08-01
     date_end: 2014-01-01
     summary: |
