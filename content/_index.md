@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I’m a PhD candidate at RMIT University, researching the impact of built environments on transport walking and its implications for public health. My work involves advanced statistical methods and longitudinal data to address complex research questions.
+        I’m a PhD candidate at RMIT University, researching the impact of built environments on walking and its implications for public health. My work involves advanced statistical methods and longitudinal data to address complex research questions.
         
         I bring a solid foundation in statistics and a passion for leveraging quantitative analysis to address real-world challenges across diverse fields.
         
@@ -63,6 +63,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
+      <!--
   - block: collection
     id: talks
     content:
@@ -73,6 +74,7 @@ sections:
     design:
       view: article-grid
       columns: 1
+      -->
   - block: collection
     id: news
     content:
