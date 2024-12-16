@@ -17,13 +17,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Background In high-income countries, the prevalence of physical inactivity and non-communicable diseases is high
-and it is now well-established that insufcient physical activity is a risk factor for non-communicable diseases. Walkin
-for recreation and transportation are efective means of improving population levels of physical activity. Research 
-fnds that the built environment (BE) can encourage or discourage walking behaviour, and this association varies 
-for diferent age groups and sexes. This systematic review aims to synthesise longitudinal evidence to better under‑
-stand how the BE afects recreational and transportation walking for diferent age groups (above 64 years and 18–64 
-years) and sexes in high-income countries.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
 summary: This is the protocol for a systematic review paper currently under review in a peer-reviewed journal.
