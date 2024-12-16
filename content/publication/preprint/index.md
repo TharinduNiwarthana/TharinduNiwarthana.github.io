@@ -23,7 +23,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 summary: This is the protocol for a systematic review paper currently under review in a peer-reviewed journal.
 
 tags:
-- Large Language Models
+- BE and walking by age and sex
 
 featured: true
 
