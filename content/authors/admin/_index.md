@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Quantitative data analysis
+  - Mining insights through data
+  - Data visualization
 
 education:
   - area: PhD (Global Urban & Social Studies)

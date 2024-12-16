@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Systematic review protocol'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,28 +13,50 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2013-10-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-10-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['Systematic review protocol']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
+publication: In *Archives of Public Health*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Background In high-income countries, the prevalence of physical inactivity and non-communicable diseases is high
+and it is now well-established that insufcient physical activity is a risk factor for non-communicable diseases. Walkin
+for recreation and transportation are efective means of improving population levels of physical activity. Research 
+fnds that the built environment (BE) can encourage or discourage walking behaviour, and this association varies 
+for diferent age groups and sexes. This systematic review aims to synthesise longitudinal evidence to better under‑
+stand how the BE afects recreational and transportation walking for diferent age groups (above 64 years and 18–64 
+years) and sexes in high-income countries
+Method We will use Scopus, PubMed, SPORTDiscus with Full Text (EBSCO), Business Source Complete (EBSCO), Art 
+and Architecture Archive (Proquest), Avery Index to Architectural Periodicals (ProQuest), and Art, Design & Architec‑
+ture Collection (ProQuest) databases to search for relevant studies. Reviewers will screen the search results according 
+to pre-specifed eligibility criteria for study inclusion in the review. Required data for the synthesis will be extracted
+from the included studies to answer the research questions. Further, the methodological quality of the studies 
+included in this systematic review will be evaluated using an established instrument, and the resulting quality scores 
+will be utilized in sensitivity analysis. The Preferred Reporting Items for Systematic Review and Meta-Analysis (PRISMA)
+checklist will be followed when reporting the fndings.
+Discussion This review will identify BE attributes that are likely to infuence transportation and recreational walk‑
+ing for younger and older adults and diferent sexes in high-income countries. The fndings will help policymakers
+with making decisions around walkable built environments for older and younger adults and diferent sexes to keep 
+them healthy.
+Trial registration This protocol of the prospective systematic review is developed following PRISMA-P guidelines
+and is registered on the Prospective Register of Systematic Reviews (PROSPERO) (registration ID CRD42022351919).
+Keywords Built environment, Transport walking, Recreational walking, Physical activity, High-income countries,
+Longitudinal
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This is the protocol for a systematic review paper currently under review in a peer-reviewed journal.
 
 tags:
-  - Large Language Models
+  - The longitudinal efects of the built environment on transportation and recreational walking, and diferences by age and sex*:* systematic review protocol
 
 # Display this page in the Featured widget?
 featured: true
@@ -56,9 +78,9 @@ url_video: 'https://youtube.com'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  #focal_point: ''
+  #preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
