@@ -105,17 +105,15 @@ work:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#  - position: Intern Data Analyst
-#    company_name: Baker Heart and Diabetes Institute (Melbourne)
-#    company_url: ''
-#    company_logo: ''
-#    date_start: 2021-01-01
-#    date_end: 2021-04-31
-#    summary: |
-#      Involved in developing web Shiny (R) application to provide data analysis and visualization. This application enable #users to explore datasets dynamically and generate customized visual outputs.
-#      - Migrated infrastructure to a new data center
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Intern Data Analyst
+    company_name: Baker Heart and Diabetes Institute (Melbourne)
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-01-01
+    date_end: 2021-04-31
+    summary: |
+      Involved in developing web Shiny (R) application to provide data analysis and visualization. This application enable users to explore datasets dynamically and generate customized visual outputs.
+
 #  - position: Business Analyst
 #    company_name: Sadaharitha Plantations Ltd.
 #    company_url: ''
