@@ -28,8 +28,8 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
+- name: Full text
+  url: https://archpublichealth.biomedcentral.com/articles/10.1186/s13690-023-01194-0
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
