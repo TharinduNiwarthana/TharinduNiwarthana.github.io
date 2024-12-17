@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Quantitative Analyst (PhD Candidate)
+role: Researcher (PhD Candidate)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -94,17 +94,17 @@ education:
       - Six months industrial traning.
       - Research conducting statistical experiments to identify significant factors that determine the physical properties of rubber gaskets.
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: PhD Candidate
+    company_name: RMIT University
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2021-08-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Researching the impact of the built environment on people’s walking behavior to inform policies that promote healthy neighborhoods and increase physical activity.
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
