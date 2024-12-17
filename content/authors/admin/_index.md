@@ -106,11 +106,11 @@ work:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Intern Data Analyst
-    company_name: Baker Heart and Diabetes Institute (Melbourne)
+    company_name: Baker Heart and Diabetes Institute
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
-    date_end: 2021-04-31
+    date_end: 2021-04-30
     summary: |
       Involved in developing web Shiny (R) application to provide data analysis and visualization. This application enable users to explore datasets dynamically and generate customized visual outputs.
 
