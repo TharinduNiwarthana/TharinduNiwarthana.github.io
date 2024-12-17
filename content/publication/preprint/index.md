@@ -62,6 +62,8 @@ projects:
 slides: example
 ---
 
+## Title
+
 This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 {{% callout note %}}
