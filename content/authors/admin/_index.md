@@ -105,17 +105,55 @@ work:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Intern Data Analyst
+    company_name: Baker Heart and Diabetes Institute (Melbourne)
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-01-01
+    date_end: 2021-04-31
+    summary: |
+      Involved in developing web Shiny (R) application to provide data analysis and visualization. This application enable users to explore datasets dynamically and generate customized visual outputs.
+#      - Migrated infrastructure to a new data center
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Business Analyst
+    company_name: Sadaharitha Plantations Ltd.
+    company_url: ''
+    company_logo: ''
+    date_start: 2014-09-01
+    date_end: 2016-01-01
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Analyzing and interpreting monthly and weekly product sales, profits, and expenses using statistical techniques, and reporting findings to the board of directors.
+      - Tracking the performance of sales representatives and creating visual representations of data.
+      - Preparing monthly reports, including budgets, KPI charts for each department to monitor and compare, and a customer complaints register.
+      - Generating ad hoc reports on business performance and customer analysis.
+      - Developing and implementing data collection systems, data analytics, and other strategies to optimize statistical efficiency and quality.
+      - Acquiring data from various databses using SQL and maintaining databases.
+      - Collaborating with management to prioritize business and information needs.
+
+  - position: Academic Instructor
+    company_name: University of Sri Jayewardenepura.
+    company_url: ''
+    company_logo: ''
+    date_start: 2014-04-01
+    date_end: 2014-09-01
+    summary: |
+      Conducted and assisted undergrad tutorial classes for subjects such as Ms. Word, Ms. Excel, Access, SPSS, Java, C#, C++
+
+  - position: Trainee Statistician
+    company_name: Elastomeric Technologies (Pvt) Ltd.
+    company_url: ''
+    company_logo: ''
+    date_start: 2013-01-01
+    date_end: 2013-05-01
+    summary: |
+      Responsibilities include:
+      - Conducting experiments and analyses to identify key factors influencing the physical properties of products and reporting findings to the technical manager.
+      - Using data obtained through self-conducted experiments to analyze and determine the best settings for factor levels in production to achieve the desired physical properties of products.
+      - Evaluating research findings and using results to adjust company policies and procedures.
+      - Preparing strategic business presentations and reports upon request from the management team.
+      - Designing data acquisition trials and applying statistical methods to make forecasts and provide projected figures.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
