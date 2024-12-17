@@ -130,28 +130,28 @@ work:
       - Acquiring data from various databses using SQL and maintaining databases.
       - Collaborating with management to prioritize business and information needs.
 
-#  - position: Academic Instructor
-#    company_name: University of Sri Jayewardenepura.
-#    company_url: ''
-#    company_logo: ''
-#    date_start: 2014-04-01
-#    date_end: 2014-09-01
-#    summary: |
-#      Conducted and assisted undergrad tutorial classes for subjects such as Ms. Word, Ms. Excel, Access, SPSS, Java, C#, C++
+  - position: Academic Instructor
+    company_name: University of Sri Jayewardenepura.
+    company_url: ''
+    company_logo: ''
+    date_start: 2014-04-01
+    date_end: 2014-09-01
+    summary: |
+      Conducted and assisted undergrad tutorial classes for subjects such as Ms. Word, Ms. Excel, Access, SPSS, Java, C#, C++
 
-#  - position: Trainee Statistician
-#    company_name: Elastomeric Technologies (Pvt) Ltd.
-#    company_url: ''
-#    company_logo: ''
-#    date_start: 2013-01-01
-#    date_end: 2013-05-01
-#    summary: |
-#      Responsibilities include:
-#      - Conducting experiments and analyses to identify key factors influencing the physical properties of products and #reporting findings to the technical manager.
-#      - Using data obtained through self-conducted experiments to analyze and determine the best settings for factor levels #in production to achieve the desired physical properties of products.
-#      - Evaluating research findings and using results to adjust company policies and procedures.
-#      - Preparing strategic business presentations and reports upon request from the management team.
-#      - Designing data acquisition trials and applying statistical methods to make forecasts and provide projected figures.
+  - position: Trainee Statistician
+    company_name: Elastomeric Technologies (Pvt) Ltd.
+    company_url: ''
+    company_logo: ''
+    date_start: 2013-01-01
+    date_end: 2013-05-01
+    summary: |
+      Responsibilities include:
+      - Conducting experiments and analyses to identify key factors influencing the physical properties of products and reporting findings to the technical manager.
+      - Using data obtained through self-conducted experiments to analyze and determine the best settings for factor levels in production to achieve the desired physical properties of products.
+      - Evaluating research findings and using results to adjust company policies and procedures.
+      - Preparing strategic business presentations and reports upon request from the management team.
+      - Designing data acquisition trials and applying statistical methods to make forecasts and provide projected figures.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
