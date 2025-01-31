@@ -49,7 +49,7 @@ profiles:
 interests:
   - Quantitative data analysis
   - Mining insights through data
-  - Data visualization
+#  - Data visualization
 
 education:
   - area: PhD (Global Urban & Social Studies)
