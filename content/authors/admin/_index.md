@@ -33,18 +33,18 @@ profiles:
   - icon: at-symbol
     url: 'mailto:mail2niwa@gmail.com'
     label: E-mail Me
-#  - icon: brands/x
-#    url: https://twitter.com/GetResearchDev
-#  - icon: brands/instagram
-#    url: https://www.instagram.com/
-#  - icon: brands/github
-#    url: https://github.com/TharinduNiwarthana
-#  - icon: brands/linkedin
-#    url: https://www.linkedin.com/in/herath-bandara/
-#  - icon: academicons/google-scholar
-#    url: https://scholar.google.com/
-#  - icon: academicons/orcid
-#    url: https://orcid.org/0000-0002-9767-6810
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
+  - icon: brands/instagram
+    url: https://www.instagram.com/
+  - icon: brands/github
+    url: https://github.com/gcushen
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/
+  - icon: academicons/orcid
+    url: https://orcid.org/
 
 interests:
   - Quantitative data analysis
