@@ -37,14 +37,14 @@ profiles:
 #    url: https://twitter.com/GetResearchDev
 #  - icon: brands/instagram
 #    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/TharinduNiwarthana
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/herath-bandara/
+#  - icon: brands/github
+#    url: https://github.com/TharinduNiwarthana
+#  - icon: brands/linkedin
+#    url: https://www.linkedin.com/in/herath-bandara/
 #  - icon: academicons/google-scholar
 #    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-9767-6810
+#  - icon: academicons/orcid
+#    url: https://orcid.org/0000-0002-9767-6810
 
 interests:
   - Quantitative data analysis
